@@ -1,6 +1,8 @@
 # VRDR
 Virtual Reality Distributed Research GSoC 2023 project. 
 
+https://neurostars.org/t/gsoc-2023-project-idea-4-2-virtual-reality-for-distributed-research-orthogonal-research-and-education-lab-175-h/24575
+
 Introduction:
 
 Participant data is integral in tailoring virtual reality (VR) experiences, driving design refinement and user engagement optimization. This initiative focuses on leveraging participant data for continuous improvement, ensuring VR projects align with user needs.
@@ -50,9 +52,15 @@ Certain aspects, like documentation and testing, are pending. Post-GSoC, commitm
 I used **unity 3d** and **blender** and for creating and optimising models.
 
 VRDR Document
+
 https://docs.google.com/document/d/1IAwUYCjWlIgBQDbXDZUkx95wBIjBNGsiZlxJ7BLuqrc/edit?usp=sharing
 
+*Z anatomy blend Model*
+
+https://drive.google.com/file/d/1EgZfcbfyxVRcCRAlXd37ndXSfbamsD-e/view?usp=sharing
+
 link to download project 
+
 *Use 2022.3.2f1 version in Unity* 
 
 
