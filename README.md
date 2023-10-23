@@ -1,6 +1,5 @@
 # VRDR
 Virtual Reality Distributed Research GSoC 2023 project. 
-Virtual Reality for Distributed Research - GSoC 2023 Project
 
 Introduction:
 
@@ -53,6 +52,8 @@ I used **unity 3d** and **blender** and for creating and optimising models.
 VRDR Document
 https://docs.google.com/document/d/1IAwUYCjWlIgBQDbXDZUkx95wBIjBNGsiZlxJ7BLuqrc/edit?usp=sharing
 
+link to download project 
+*Use 2022.3.2f1 version in Unity* 
 
 
 
