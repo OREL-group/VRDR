@@ -1,7 +1,5 @@
 # VRDR
-Virtual Reality Distributed Research GSoC 2023 project. 
-
-https://neurostars.org/t/gsoc-2023-project-idea-4-2-virtual-reality-for-distributed-research-orthogonal-research-and-education-lab-175-h/24575
+Virtual Reality Distributed Research GSoC 2023 project. [Archive](https://zenodo.org/records/10046243)
 
 Introduction:
 
